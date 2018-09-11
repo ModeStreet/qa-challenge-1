@@ -1,6 +1,6 @@
 # ModeStreet Quality assurance challenge
 
-Challenge is to assurance our demo web application.
+Challenge is to assurance our demo web application hosted at [link](http://18.236.188.30/).
 
 ## Rules
 
