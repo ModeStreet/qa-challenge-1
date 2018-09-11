@@ -10,7 +10,7 @@ Challenge is to assurance our demo web application.
 ## Requirements
 
 - Perform Automated Testing vs Manual Testing 
-- If Possible find vulnerability of demo web app
+- If Possible find vulnerability of demo web app along with server
 
 ## Got questions?
 
