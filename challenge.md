@@ -9,7 +9,7 @@ Challenge is to assurance our demo web application hosted at [link](http://18.23
 
 ## Requirements
 
-- Perform Automated Testing vs Manual Testing 
+- Perform Automated Testing and Manual Testing 
 - If Possible find vulnerability of demo web app along with server
 
 ## Got questions?
